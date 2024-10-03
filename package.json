@@ -1,7 +1,7 @@
 {
   "name": "newless",
   "private": true,
-  "homepage": "https://newlesstore.github.io/comingsoon",
+  "homepage": "https://newlesstore.github.io/coomingsoon",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
@@ -10,7 +10,7 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview --port 8080"
   },
   "dependencies": {
     "react": "^18.3.1",
